@@ -1,6 +1,14 @@
-#redis:7.4.1
-#nginx:1.27.2
+redis:7.4.1
+nginx:1.27.2
 mysql:8.4.3
+apache/rocketmq:5.3.1
+apache/kafka:3.7.2
+nacos/nacos-server:v2.3.2
+apache/seata-server:2.0.0
+openjdk:17
+elasticsearch:8.17.0
+kibana:8.17.0
+logstash:8.17.0
 #nacos/nacos-server:v2.4.3
 #nacos/nacos-server:v2.1.0
 #redis
@@ -13,4 +21,4 @@ mysql:8.4.3
 #docker.elastic.co/elasticsearch/elasticsearch:8.17.0
 #docker.elastic.co/kibana/kibana:8.17.0
 #neo4j:5.26.0-community-bullseye
-#openjdk:17
+
