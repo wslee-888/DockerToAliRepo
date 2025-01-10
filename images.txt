@@ -10,13 +10,8 @@
 #kibana:8.17.0
 #logstash:8.17.0
 
-kube-apiserver:v1.20.9
-kube-proxy:v1.20.9
-kube-controller-manager:v1.20.9
-kube-scheduler:v1.20.9
-coredns:1.7.0
-etcd:3.4.13-0
-pause:3.2
+kubesphere/kube-apiserver:v1.20.9
+
 
 #nacos/nacos-server:v2.4.3
 #nacos/nacos-server:v2.1.0
