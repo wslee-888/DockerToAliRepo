@@ -9,9 +9,10 @@
 #elasticsearch:8.17.0
 #kibana:8.17.0
 #logstash:8.17.0
-mongo:7.0.16
+#mongo:7.0.16
 #kubesphere/kube-apiserver:v1.20.9
-
+styletang/rocketmq-console-ng:1.0.0
+zookeeper:3.9.3
 
 #nacos/nacos-server:v2.4.3
 #nacos/nacos-server:v2.1.0
